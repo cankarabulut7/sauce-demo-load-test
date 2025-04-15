@@ -28,5 +28,5 @@ Each virtual user performs the following steps:
 ## 🔌 Required Plugins
 
 - To run this test plan properly, the following JMeter plugins are required:
-  **JMeter Plugins Manager**
+  **JMeter Plugins Manager**,
   **WebDriver Sampler**
